@@ -1,2 +1,2 @@
 console.log('console.js');
-console.log('version3');
+console.log('version 1');
